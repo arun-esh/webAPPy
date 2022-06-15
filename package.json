@@ -1,0 +1,19 @@
+{
+  "name": "webapplicationproject",
+  "version": "1.0.0",
+  "description": "Group Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun-esh/webApplicationProject.git"
+  },
+  "author": "arunesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun-esh/webApplicationProject/issues"
+  },
+  "homepage": "https://github.com/arun-esh/webApplicationProject#readme"
+}
