@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "notepad",
+    "tags": ["office", "school", "stationary"],
+    "price": 35.29,
+    "quantity": 2
+  },
+  {
+    "id": 1,
+    "name": "pen",
+    "tags": ["office", "school", "stationary"],
+    "price": 1.99,
+    "quantity": 3
+  },
+  {
+    "id": 2,
+    "name": "pencil",
+    "tags": ["office", "school", "stationary"],
+    "price": 0.99,
+    "quantity": 5
+  },
+  {
+    "id": 3,
+    "name": "eraser",
+    "tags": ["office", "school", "stationary"],
+    "price": 1.99,
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "ruler",
+    "tags": ["office", "school", "stationary"],
+    "price": 1.99,
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "stapler",
+    "tags": ["office", "school", "stationary"],
+    "price": 1.99,
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "sharpener",
+    "tags": ["office", "school", "stationary"],
+    "price": 1.99,
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "envelopes",
+    "tags": ["stationary", "office", "general"],
+    "price": 19.95,
+    "quantity": 8
+  },
+  {
+    "id": 8,
+    "name": "binder",
+    "tags": ["school", "general", "organization"],
+    "price": 14.16,
+    "quantity": 3
+  },
+  {
+    "id": 9,
+    "name": "paper",
+    "tags": ["writing", "office", "school", "stationary"],
+    "price": 0.99,
+    "quantity": 30
+  },
+  {
+    "id": 10,
+    "name": "TestProduct1",
+    "tags": ["testing"],
+    "price": 12,
+    "quantity": 30
+  }
+]
